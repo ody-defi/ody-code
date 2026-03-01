@@ -41,7 +41,7 @@
 ## Staking and Rewards
 
 ### Staking Execution Contract
-- Address: `0x355113bC1Ab475AbE5915AD8386D62D7D8500e62`
+- Address: `0x7151Ab2e3e81E9fDFE961C035fEb7e551Abd6a86`
 - Purpose: Processes user staking operations and reward accounting.
 
 ### Staking Vault Contract
